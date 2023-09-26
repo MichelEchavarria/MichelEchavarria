@@ -26,7 +26,7 @@ Aquí hay algunos de los proyectos en los que he estado trabajando recientemente
 
 Here are some of the projects I've been working on recently:
 
-- 🚀 **Sistema de Cálculo para Producción Eléctrica**: Desarrollé un sistema para el Ministerio de Energía que permite calcular la producción eléctrica de paneles solares manera eficiente y precisa.
+- 🚀 **Sistema de Cálculo para Producción Eléctrica**: Desarrollé un sistema para el Ministerio de Energía que permite calcular la producción eléctrica de paneles solares de manera eficiente y precisa.
 
 - 🌐 **Sistema de Recolección de Datos para el Banco Mundial**: Diseñé un sistema de recolección de datos utilizado en más de 8 países de América Latina para el Banco Mundial.
 
